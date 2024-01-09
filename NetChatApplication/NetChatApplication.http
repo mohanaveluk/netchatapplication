@@ -1,0 +1,6 @@
+@NetChatApplication_HostAddress = http://localhost:5012
+
+GET {{NetChatApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
